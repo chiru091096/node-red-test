@@ -1,0 +1,11 @@
+{
+    "name"         : "node-red-custom-node",
+    "version"      : "0.0.1",
+    "description"  : "A custom node for node-red",
+    "main"         : "custom-node.js",
+    "node-red"     : {
+        "nodes": {
+            "sample": "custom-node.js"
+        }
+    }
+}
